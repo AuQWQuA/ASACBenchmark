@@ -22,7 +22,7 @@ title: A Benchmark for Algorithm Synthesis
 email: zhangzhao2019@pku.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   GitHub: https://github.com/AuQWQuA/ASACDataset
-baseurl: "/ASACDataset" # the subpath of your site, e.g. /blog
+baseurl: "/ASACBenchmark" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
