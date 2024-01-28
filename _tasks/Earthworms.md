@@ -13,7 +13,6 @@ difficulty: 0.8
 - [English Description](../../dataset/Earthworms/task_e.pdf)
 - [Chinese Description](../../dataset/Earthworms/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Earthworms/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Earthworms/task_c_mzn.txt)
 
 #### Problem Description

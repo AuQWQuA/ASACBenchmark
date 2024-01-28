@@ -14,7 +14,6 @@ difficulty: 0.66
 - [English Description](../../dataset/2k System of Numeration/task_e.pdf)
 - [Chinese Description](../../dataset/2k System of Numeration/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/2k System of Numeration/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/2k System of Numeration/task_c_mzn.txt)
 
 #### Problem Description

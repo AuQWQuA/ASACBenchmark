@@ -14,7 +14,6 @@ difficulty: 0.53
 - [English Description](../../dataset/Scholarship/task_e.pdf)
 - [Chinese Description](../../dataset/Scholarship/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Scholarship/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Scholarship/task_c_mzn.txt)
 
 #### Problem Description

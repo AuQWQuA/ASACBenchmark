@@ -14,7 +14,6 @@ difficulty: 0.76
 - [English Description](../../dataset/Divert water into the city/task_e.pdf)
 - [Chinese Description](../../dataset/Divert water into the city/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Divert water into the city/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Divert water into the city/task_c_mzn.txt)
 
 #### Problem Description

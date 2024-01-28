@@ -14,7 +14,6 @@ difficulty: 0.8
 - [English Description](../../dataset/Today’s Meal at Emiya’s House/task_e.pdf)
 - [Chinese Description](../../dataset/Today’s Meal at Emiya’s House/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Today’s Meal at Emiya’s House/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Today’s Meal at Emiya’s House/task_c_mzn.txt)
 
 #### Problem Description

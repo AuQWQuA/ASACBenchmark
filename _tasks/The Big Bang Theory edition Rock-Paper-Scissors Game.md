@@ -12,7 +12,6 @@ difficulty: 0.44
 - [English Description](../../dataset/The Big Bang Theory edition Rock-Paper-Scissors Game/task_e.pdf)
 - [Chinese Description](../../dataset/The Big Bang Theory edition Rock-Paper-Scissors Game/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/The Big Bang Theory edition Rock-Paper-Scissors Game/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/The Big Bang Theory edition Rock-Paper-Scissors Game/task_c_mzn.txt)
 
 #### Problem Description

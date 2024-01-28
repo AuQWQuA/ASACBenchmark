@@ -13,7 +13,6 @@ difficulty: 0.73
 - [English Description](../../dataset/Combinatorial Number Problem/task_e.pdf)
 - [Chinese Description](../../dataset/Combinatorial Number Problem/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Combinatorial Number Problem/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Combinatorial Number Problem/task_c_mzn.txt)
 
 #### Problem Description

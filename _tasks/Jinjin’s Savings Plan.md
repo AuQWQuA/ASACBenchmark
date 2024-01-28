@@ -13,7 +13,6 @@ difficulty: 0.59
 - [English Description](../../dataset/Jinjin’s Savings Plan/task_e.pdf)
 - [Chinese Description](../../dataset/Jinjin’s Savings Plan/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Jinjin’s Savings Plan/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Jinjin’s Savings Plan/task_c_mzn.txt)
 
 #### Problem Description

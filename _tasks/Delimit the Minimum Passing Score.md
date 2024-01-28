@@ -13,7 +13,6 @@ difficulty: 0.6
 - [English Description](../../dataset/Delimit the Minimum Passing Score/task_e.pdf)
 - [Chinese Description](../../dataset/Delimit the Minimum Passing Score/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Delimit the Minimum Passing Score/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Delimit the Minimum Passing Score/task_c_mzn.txt)
 
 #### Problem Description

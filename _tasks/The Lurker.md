@@ -13,7 +13,6 @@ difficulty: 0.67
 - [English Description](../../dataset/The Lurker/task_e.pdf)
 - [Chinese Description](../../dataset/The Lurker/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/The Lurker/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/The Lurker/task_c_mzn.txt)
 
 #### Problem Description

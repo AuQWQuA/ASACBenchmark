@@ -13,7 +13,6 @@ difficulty: 0.59
 - [English Description](../../dataset/Counting Numbers/task_e.pdf)
 - [Chinese Description](../../dataset/Counting Numbers/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Counting Numbers/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Counting Numbers/task_c_mzn.txt)
 
 #### Problem Description

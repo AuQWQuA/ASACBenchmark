@@ -15,7 +15,6 @@ difficulty: 0.82
 - [English Description](../../dataset/Hopscotch/task_e.pdf)
 - [Chinese Description](../../dataset/Hopscotch/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Hopscotch/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Hopscotch/task_c_mzn.txt)
 
 #### Problem Description

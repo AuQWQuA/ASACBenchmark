@@ -13,7 +13,6 @@ difficulty: 0.59
 - [English Description](../../dataset/The Librarian/task_e.pdf)
 - [Chinese Description](../../dataset/The Librarian/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/The Librarian/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/The Librarian/task_c_mzn.txt)
 
 #### Problem Description

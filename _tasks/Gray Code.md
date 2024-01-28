@@ -13,7 +13,6 @@ difficulty: 0.75
 - [English Description](../../dataset/Gray Code/task_e.pdf)
 - [Chinese Description](../../dataset/Gray Code/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Gray Code/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Gray Code/task_c_mzn.txt)
 
 #### Problem Description

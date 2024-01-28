@@ -13,7 +13,6 @@ difficulty: 0.49
 - [English Description](../../dataset/Sequence/task_e.pdf)
 - [Chinese Description](../../dataset/Sequence/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Sequence/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Sequence/task_c_mzn.txt)
 
 #### Problem Description

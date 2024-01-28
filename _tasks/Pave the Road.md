@@ -13,7 +13,6 @@ difficulty: 0.51
 - [English Description](../../dataset/Pave the Road/task_e.pdf)
 - [Chinese Description](../../dataset/Pave the Road/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Pave the Road/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Pave the Road/task_c_mzn.txt)
 
 #### Problem Description

@@ -15,7 +15,6 @@ difficulty: 0.75
 - [English Description](../../dataset/Checkerboard/task_e.pdf)
 - [Chinese Description](../../dataset/Checkerboard/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Checkerboard/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Checkerboard/task_c_mzn.txt)
 
 #### Problem Description

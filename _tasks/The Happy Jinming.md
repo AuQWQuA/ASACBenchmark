@@ -13,7 +13,6 @@ difficulty: 0.46
 - [English Description](../../dataset/The Happy Jinming/task_e.pdf)
 - [Chinese Description](../../dataset/The Happy Jinming/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/The Happy Jinming/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/The Happy Jinming/task_c_mzn.txt)
 
 #### Problem Description

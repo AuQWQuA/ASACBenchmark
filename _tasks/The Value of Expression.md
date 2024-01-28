@@ -13,7 +13,6 @@ difficulty: 0.7
 - [English Description](../../dataset/The Value of Expression/task_e.pdf)
 - [Chinese Description](../../dataset/The Value of Expression/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/The Value of Expression/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/The Value of Expression/task_c_mzn.txt)
 
 #### Problem Description

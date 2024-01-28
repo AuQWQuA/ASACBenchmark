@@ -13,7 +13,6 @@ difficulty: 0.58
 - [English Description](../../dataset/Machine Translation/task_e.pdf)
 - [Chinese Description](../../dataset/Machine Translation/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Machine Translation/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Machine Translation/task_c_mzn.txt)
 
 #### Problem Description

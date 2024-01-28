@@ -15,7 +15,6 @@ difficulty: 0.82
 - [English Description](../../dataset/Travel/task_e.pdf)
 - [Chinese Description](../../dataset/Travel/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Travel/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Travel/task_c_mzn.txt)
 
 #### Problem Description

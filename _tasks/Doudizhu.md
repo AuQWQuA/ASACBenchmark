@@ -14,7 +14,6 @@ difficulty: 0.76
 - [English Description](../../dataset/Doudizhu/task_e.pdf)
 - [Chinese Description](../../dataset/Doudizhu/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Doudizhu/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Doudizhu/task_c_mzn.txt)
 
 #### Problem Description

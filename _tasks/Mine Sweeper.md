@@ -13,7 +13,6 @@ difficulty: 0.52
 - [English Description](../../dataset/Mine Sweeper/task_e.pdf)
 - [Chinese Description](../../dataset/Mine Sweeper/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Mine Sweeper/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Mine Sweeper/task_c_mzn.txt)
 
 #### Problem Description

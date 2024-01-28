@@ -12,7 +12,6 @@ difficulty: 0.62
 - [English Description](../../dataset/Campfire Party/task_e.pdf)
 - [Chinese Description](../../dataset/Campfire Party/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Campfire Party/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Campfire Party/task_c_mzn.txt)
 
 #### Problem Description

@@ -13,7 +13,6 @@ difficulty: 0.65
 - [English Description](../../dataset/Message Passing/task_e.pdf)
 - [Chinese Description](../../dataset/Message Passing/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Message Passing/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Message Passing/task_c_mzn.txt)
 
 #### Problem Description

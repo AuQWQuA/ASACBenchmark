@@ -14,7 +14,6 @@ difficulty: 0.84
 - [English Description](../../dataset/Children’s Numbers/task_e.pdf)
 - [Chinese Description](../../dataset/Children’s Numbers/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Children’s Numbers/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Children’s Numbers/task_c_mzn.txt)
 
 #### Problem Description

@@ -13,7 +13,6 @@ difficulty: 0.75
 - [English Description](../../dataset/Across the river/task_e.pdf)
 - [Chinese Description](../../dataset/Across the river/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Across the river/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Across the river/task_c_mzn.txt)
 
 #### Problem Description

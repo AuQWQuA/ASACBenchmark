@@ -13,7 +13,6 @@ difficulty: 0.89
 - [English Description](../../dataset/Number-Filling Game/task_e.pdf)
 - [Chinese Description](../../dataset/Number-Filling Game/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Number-Filling Game/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Number-Filling Game/task_c_mzn.txt)
 
 #### Problem Description

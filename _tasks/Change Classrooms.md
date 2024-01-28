@@ -13,7 +13,6 @@ difficulty: 0.75
 - [English Description](../../dataset/Change Classrooms/task_e.pdf)
 - [Chinese Description](../../dataset/Change Classrooms/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Change Classrooms/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Change Classrooms/task_c_mzn.txt)
 
 #### Problem Description

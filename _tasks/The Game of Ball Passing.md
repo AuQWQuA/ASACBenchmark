@@ -14,7 +14,6 @@ difficulty: 0.52
 - [English Description](../../dataset/The Game of Ball Passing/task_e.pdf)
 - [Chinese Description](../../dataset/The Game of Ball Passing/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/The Game of Ball Passing/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/The Game of Ball Passing/task_c_mzn.txt)
 
 #### Problem Description

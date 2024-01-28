@@ -12,7 +12,6 @@ difficulty: 0.53
 - [English Description](../../dataset/Matchstick Equation/task_e.pdf)
 - [Chinese Description](../../dataset/Matchstick Equation/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Matchstick Equation/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Matchstick Equation/task_c_mzn.txt)
 
 #### Problem Description

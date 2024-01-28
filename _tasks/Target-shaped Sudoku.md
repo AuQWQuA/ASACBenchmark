@@ -14,7 +14,6 @@ difficulty: 0.75
 - [English Description](../../dataset/Target-shaped Sudoku/task_e.pdf)
 - [Chinese Description](../../dataset/Target-shaped Sudoku/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Target-shaped Sudoku/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Target-shaped Sudoku/task_c_mzn.txt)
 
 #### Problem Description

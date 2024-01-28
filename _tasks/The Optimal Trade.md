@@ -17,7 +17,6 @@ difficulty: 0.63
 - [English Description](../../dataset/The Optimal Trade/task_e.pdf)
 - [Chinese Description](../../dataset/The Optimal Trade/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/The Optimal Trade/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/The Optimal Trade/task_c_mzn.txt)
 
 #### Problem Description

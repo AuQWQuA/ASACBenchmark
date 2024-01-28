@@ -13,7 +13,6 @@ difficulty: 0.73
 - [English Description](../../dataset/Joint Weights/task_e.pdf)
 - [Chinese Description](../../dataset/Joint Weights/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Joint Weights/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Joint Weights/task_c_mzn.txt)
 
 #### Problem Description

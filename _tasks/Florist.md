@@ -12,7 +12,6 @@ difficulty: 0.62
 - [English Description](../../dataset/Florist/task_e.pdf)
 - [Chinese Description](../../dataset/Florist/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Florist/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Florist/task_c_mzn.txt)
 
 #### Problem Description

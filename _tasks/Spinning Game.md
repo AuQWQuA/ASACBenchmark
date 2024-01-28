@@ -13,7 +13,6 @@ difficulty: 0.62
 - [English Description](../../dataset/Spinning Game/task_e.pdf)
 - [Chinese Description](../../dataset/Spinning Game/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Spinning Game/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Spinning Game/task_c_mzn.txt)
 
 #### Problem Description

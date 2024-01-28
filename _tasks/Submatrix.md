@@ -15,7 +15,6 @@ difficulty: 0.65
 - [English Description](../../dataset/Submatrix/task_e.pdf)
 - [Chinese Description](../../dataset/Submatrix/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Submatrix/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Submatrix/task_c_mzn.txt)
 
 #### Problem Description

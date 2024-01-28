@@ -13,7 +13,6 @@ difficulty: 0.77
 - [English Description](../../dataset/The Worm-eaten Formula Puzzle/task_e.pdf)
 - [Chinese Description](../../dataset/The Worm-eaten Formula Puzzle/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/The Worm-eaten Formula Puzzle/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/The Worm-eaten Formula Puzzle/task_c_mzn.txt)
 
 #### Problem Description

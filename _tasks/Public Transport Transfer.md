@@ -12,7 +12,6 @@ difficulty: 0.77
 - [English Description](../../dataset/Public Transport Transfer/task_e.pdf)
 - [Chinese Description](../../dataset/Public Transport Transfer/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Public Transport Transfer/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Public Transport Transfer/task_c_mzn.txt)
 
 #### Problem Description

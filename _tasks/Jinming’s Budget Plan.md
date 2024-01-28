@@ -13,7 +13,6 @@ difficulty: 0.65
 - [English Description](../../dataset/Jinming’s Budget Plan/task_e.pdf)
 - [Chinese Description](../../dataset/Jinming’s Budget Plan/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Jinming’s Budget Plan/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Jinming’s Budget Plan/task_c_mzn.txt)
 
 #### Problem Description

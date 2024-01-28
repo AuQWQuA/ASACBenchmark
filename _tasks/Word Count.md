@@ -13,7 +13,6 @@ difficulty: 0.78
 - [English Description](../../dataset/Word Count/task_e.pdf)
 - [Chinese Description](../../dataset/Word Count/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Word Count/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Word Count/task_c_mzn.txt)
 
 #### Problem Description

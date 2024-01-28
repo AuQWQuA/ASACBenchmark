@@ -11,7 +11,6 @@ difficulty: 0.78
 - [English Description](../../dataset/Magic Circle/task_e.pdf)
 - [Chinese Description](../../dataset/Magic Circle/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Magic Circle/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Magic Circle/task_c_mzn.txt)
 
 #### Problem Description

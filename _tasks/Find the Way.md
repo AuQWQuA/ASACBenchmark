@@ -13,7 +13,6 @@ difficulty: 0.7
 - [English Description](../../dataset/Find the Way/task_e.pdf)
 - [Chinese Description](../../dataset/Find the Way/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Find the Way/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Find the Way/task_c_mzn.txt)
 
 #### Problem Description

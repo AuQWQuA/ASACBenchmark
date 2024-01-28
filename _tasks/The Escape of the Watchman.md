@@ -13,7 +13,6 @@ difficulty: 0.6
 - [English Description](../../dataset/The Escape of the Watchman/task_e.pdf)
 - [Chinese Description](../../dataset/The Escape of the Watchman/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/The Escape of the Watchman/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/The Escape of the Watchman/task_c_mzn.txt)
 
 #### Problem Description

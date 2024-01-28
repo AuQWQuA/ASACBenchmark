@@ -13,7 +13,6 @@ difficulty: 0.59
 - [English Description](../../dataset/Placing Flowers/task_e.pdf)
 - [Chinese Description](../../dataset/Placing Flowers/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Placing Flowers/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Placing Flowers/task_c_mzn.txt)
 
 #### Problem Description

@@ -14,7 +14,6 @@ difficulty: 0.69
 - [English Description](../../dataset/Stupid Little Monkey/task_e.pdf)
 - [Chinese Description](../../dataset/Stupid Little Monkey/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Stupid Little Monkey/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Stupid Little Monkey/task_c_mzn.txt)
 
 #### Problem Description

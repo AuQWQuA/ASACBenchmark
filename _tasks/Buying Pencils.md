@@ -12,7 +12,6 @@ difficulty: 0.58
 - [English Description](../../dataset/Buying Pencils/task_e.pdf)
 - [Chinese Description](../../dataset/Buying Pencils/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Buying Pencils/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Buying Pencils/task_c_mzn.txt)
 
 #### Problem Description

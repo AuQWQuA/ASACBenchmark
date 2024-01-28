@@ -13,7 +13,6 @@ difficulty: 0.56
 - [English Description](../../dataset/Digit Reversal/task_e.pdf)
 - [Chinese Description](../../dataset/Digit Reversal/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Digit Reversal/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Digit Reversal/task_c_mzn.txt)
 
 #### Problem Description

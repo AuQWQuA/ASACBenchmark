@@ -17,7 +17,6 @@ difficulty: 0.7
 - [English Description](../../dataset/Trucking/task_e.pdf)
 - [Chinese Description](../../dataset/Trucking/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Trucking/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Trucking/task_c_mzn.txt)
 
 #### Problem Description

@@ -13,7 +13,6 @@ difficulty: 0.61
 - [English Description](../../dataset/Peanut Picking/task_e.pdf)
 - [Chinese Description](../../dataset/Peanut Picking/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Peanut Picking/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Peanut Picking/task_c_mzn.txt)
 
 #### Problem Description

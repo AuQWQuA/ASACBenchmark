@@ -14,7 +14,6 @@ difficulty: 0.67
 - [English Description](../../dataset/Missile Interception/task_e.pdf)
 - [Chinese Description](../../dataset/Missile Interception/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Missile Interception/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Missile Interception/task_c_mzn.txt)
 
 #### Problem Description

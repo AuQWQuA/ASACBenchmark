@@ -13,7 +13,6 @@ difficulty: 0.58
 - [English Description](../../dataset/Chorus Formation/task_e.pdf)
 - [Chinese Description](../../dataset/Chorus Formation/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Chorus Formation/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Chorus Formation/task_c_mzn.txt)
 
 #### Problem Description

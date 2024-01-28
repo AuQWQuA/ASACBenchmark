@@ -13,7 +13,6 @@ difficulty: 0.54
 - [English Description](../../dataset/Souvenir Grouping/task_e.pdf)
 - [Chinese Description](../../dataset/Souvenir Grouping/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Souvenir Grouping/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Souvenir Grouping/task_c_mzn.txt)
 
 #### Problem Description

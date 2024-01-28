@@ -14,7 +14,6 @@ difficulty: 0.45
 - [English Description](../../dataset/Congruence Equation/task_e.pdf)
 - [Chinese Description](../../dataset/Congruence Equation/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Congruence Equation/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Congruence Equation/task_c_mzn.txt)
 
 #### Problem Description

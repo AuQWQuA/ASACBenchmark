@@ -14,7 +14,6 @@ difficulty: 0.66
 - [English Description](../../dataset/Hankson’s Interesting Question/task_e.pdf)
 - [Chinese Description](../../dataset/Hankson’s Interesting Question/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Hankson’s Interesting Question/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Hankson’s Interesting Question/task_c_mzn.txt)
 
 #### Problem Description

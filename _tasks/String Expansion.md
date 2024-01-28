@@ -13,7 +13,6 @@ difficulty: 0.73
 - [English Description](../../dataset/String Expansion/task_e.pdf)
 - [Chinese Description](../../dataset/String Expansion/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/String Expansion/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/String Expansion/task_c_mzn.txt)
 
 #### Problem Description

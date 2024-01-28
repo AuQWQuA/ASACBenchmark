@@ -12,7 +12,6 @@ difficulty: 0.63
 - [English Description](../../dataset/Toy Puzzle/task_e.pdf)
 - [Chinese Description](../../dataset/Toy Puzzle/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Toy Puzzle/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Toy Puzzle/task_c_mzn.txt)
 
 #### Problem Description

@@ -13,7 +13,6 @@ difficulty: 0.55
 - [English Description](../../dataset/Passing Notes/task_e.pdf)
 - [Chinese Description](../../dataset/Passing Notes/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Passing Notes/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Passing Notes/task_c_mzn.txt)
 
 #### Problem Description

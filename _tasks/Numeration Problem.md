@@ -13,7 +13,6 @@ difficulty: 0.5
 - [English Description](../../dataset/Numeration Problem/task_e.pdf)
 - [Chinese Description](../../dataset/Numeration Problem/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Numeration Problem/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Numeration Problem/task_c_mzn.txt)
 
 #### Problem Description

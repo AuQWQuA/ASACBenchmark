@@ -12,7 +12,6 @@ difficulty: 0.89
 - [English Description](../../dataset/Numbers on the Tree/task_e.pdf)
 - [Chinese Description](../../dataset/Numbers on the Tree/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Numbers on the Tree/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Numbers on the Tree/task_c_mzn.txt)
 
 #### Problem Description

@@ -18,7 +18,6 @@ difficulty: 0.77
 - [English Description](../../dataset/Love Running Every Day/task_e.pdf)
 - [Chinese Description](../../dataset/Love Running Every Day/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Love Running Every Day/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Love Running Every Day/task_c_mzn.txt)
 
 #### Problem Description

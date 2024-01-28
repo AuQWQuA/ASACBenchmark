@@ -13,7 +13,6 @@ difficulty: 0.81
 - [English Description](../../dataset/Parentheses Tree/task_e.pdf)
 - [Chinese Description](../../dataset/Parentheses Tree/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Parentheses Tree/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Parentheses Tree/task_c_mzn.txt)
 
 #### Problem Description

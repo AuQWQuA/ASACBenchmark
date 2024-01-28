@@ -13,7 +13,6 @@ difficulty: 0.53
 - [English Description](../../dataset/Who got the most scholarships/task_e.pdf)
 - [Chinese Description](../../dataset/Who got the most scholarships/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Who got the most scholarships/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Who got the most scholarships/task_c_mzn.txt)
 
 #### Problem Description

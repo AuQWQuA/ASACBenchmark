@@ -12,7 +12,6 @@ difficulty: 0.68
 - [English Description](../../dataset/Travel By Car/task_e.pdf)
 - [Chinese Description](../../dataset/Travel By Car/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Travel By Car/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Travel By Car/task_c_mzn.txt)
 
 #### Problem Description

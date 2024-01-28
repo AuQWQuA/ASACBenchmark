@@ -14,7 +14,6 @@ difficulty: 0.62
 - [English Description](../../dataset/Fruit Pile/task_e.pdf)
 - [Chinese Description](../../dataset/Fruit Pile/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Fruit Pile/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Fruit Pile/task_c_mzn.txt)
 
 #### Problem Description

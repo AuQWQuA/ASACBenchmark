@@ -12,7 +12,6 @@ difficulty: 0.7
 - [English Description](../../dataset/Palindrome Dates/task_e.pdf)
 - [Chinese Description](../../dataset/Palindrome Dates/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Palindrome Dates/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Palindrome Dates/task_c_mzn.txt)
 
 #### Problem Description

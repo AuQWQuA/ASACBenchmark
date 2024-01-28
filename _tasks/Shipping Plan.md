@@ -14,7 +14,6 @@ difficulty: 0.75
 - [English Description](../../dataset/Shipping Plan/task_e.pdf)
 - [Chinese Description](../../dataset/Shipping Plan/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Shipping Plan/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Shipping Plan/task_c_mzn.txt)
 
 #### Problem Description

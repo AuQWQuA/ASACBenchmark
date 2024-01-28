@@ -12,7 +12,6 @@ difficulty: 0.83
 - [English Description](../../dataset/The Center of Gravity of the Tree/task_e.pdf)
 - [Chinese Description](../../dataset/The Center of Gravity of the Tree/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/The Center of Gravity of the Tree/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/The Center of Gravity of the Tree/task_c_mzn.txt)
 
 #### Problem Description

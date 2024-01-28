@@ -14,7 +14,6 @@ difficulty: 0.7
 - [English Description](../../dataset/Borrow Classrooms/task_e.pdf)
 - [Chinese Description](../../dataset/Borrow Classrooms/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Borrow Classrooms/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Borrow Classrooms/task_c_mzn.txt)
 
 #### Problem Description

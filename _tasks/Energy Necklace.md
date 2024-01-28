@@ -15,7 +15,6 @@ difficulty: 0.46
 - [English Description](../../dataset/Energy Necklace/task_e.pdf)
 - [Chinese Description](../../dataset/Energy Necklace/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Energy Necklace/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Energy Necklace/task_c_mzn.txt)
 
 #### Problem Description

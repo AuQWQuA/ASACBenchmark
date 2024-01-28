@@ -15,7 +15,6 @@ difficulty: 0.82
 - [English Description](../../dataset/Shuffle/task_e.pdf)
 - [Chinese Description](../../dataset/Shuffle/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Shuffle/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Shuffle/task_c_mzn.txt)
 
 #### Problem Description

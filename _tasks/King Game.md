@@ -14,7 +14,6 @@ difficulty: 0.78
 - [English Description](../../dataset/King Game/task_e.pdf)
 - [Chinese Description](../../dataset/King Game/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/King Game/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/King Game/task_c_mzn.txt)
 
 #### Problem Description

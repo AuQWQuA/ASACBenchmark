@@ -12,7 +12,6 @@ difficulty: 0.64
 - [English Description](../../dataset/Road Game/task_e.pdf)
 - [Chinese Description](../../dataset/Road Game/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Road Game/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Road Game/task_c_mzn.txt)
 
 #### Problem Description

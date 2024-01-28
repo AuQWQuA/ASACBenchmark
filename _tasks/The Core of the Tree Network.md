@@ -16,7 +16,6 @@ difficulty: 0.53
 - [English Description](../../dataset/The Core of the Tree Network/task_e.pdf)
 - [Chinese Description](../../dataset/The Core of the Tree Network/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/The Core of the Tree Network/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/The Core of the Tree Network/task_c_mzn.txt)
 
 #### Problem Description

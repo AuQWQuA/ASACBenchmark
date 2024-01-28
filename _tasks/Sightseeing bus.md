@@ -13,7 +13,6 @@ difficulty: 0.67
 - [English Description](../../dataset/Sightseeing bus/task_e.pdf)
 - [Chinese Description](../../dataset/Sightseeing bus/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Sightseeing bus/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Sightseeing bus/task_c_mzn.txt)
 
 #### Problem Description

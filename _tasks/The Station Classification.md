@@ -15,7 +15,6 @@ difficulty: 0.69
 - [English Description](../../dataset/The Station Classification/task_e.pdf)
 - [Chinese Description](../../dataset/The Station Classification/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/The Station Classification/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/The Station Classification/task_c_mzn.txt)
 
 #### Problem Description

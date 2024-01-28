@@ -13,7 +13,6 @@ difficulty: 0.65
 - [English Description](../../dataset/Arrange Seats/task_e.pdf)
 - [Chinese Description](../../dataset/Arrange Seats/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Arrange Seats/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Arrange Seats/task_c_mzn.txt)
 
 #### Problem Description

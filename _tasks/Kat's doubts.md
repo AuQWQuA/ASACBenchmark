@@ -15,7 +15,6 @@ difficulty: 0.54
 - [English Description](../../dataset/Kat's doubts/task_e.pdf)
 - [Chinese Description](../../dataset/Kat's doubts/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Kat's doubts/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Kat's doubts/task_c_mzn.txt)
 
 #### Problem Description

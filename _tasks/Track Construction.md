@@ -14,7 +14,6 @@ difficulty: 0.84
 - [English Description](../../dataset/Track Construction/task_e.pdf)
 - [Chinese Description](../../dataset/Track Construction/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Track Construction/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Track Construction/task_c_mzn.txt)
 
 #### Problem Description

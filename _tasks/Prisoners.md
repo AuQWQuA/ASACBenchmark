@@ -16,7 +16,6 @@ difficulty: 0.61
 - [English Description](../../dataset/Prisoners/task_e.pdf)
 - [Chinese Description](../../dataset/Prisoners/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Prisoners/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Prisoners/task_c_mzn.txt)
 
 #### Problem Description

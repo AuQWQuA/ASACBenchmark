@@ -14,7 +14,6 @@ difficulty: 0.78
 - [English Description](../../dataset/Swiss System/task_e.pdf)
 - [Chinese Description](../../dataset/Swiss System/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Swiss System/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Swiss System/task_c_mzn.txt)
 
 #### Problem Description

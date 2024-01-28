@@ -14,7 +14,6 @@ difficulty: 0.73
 - [English Description](../../dataset/Cell Division/task_e.pdf)
 - [Chinese Description](../../dataset/Cell Division/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Cell Division/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Cell Division/task_c_mzn.txt)
 
 #### Problem Description

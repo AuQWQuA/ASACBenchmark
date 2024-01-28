@@ -14,7 +14,6 @@ difficulty: 0.55
 - [English Description](../../dataset/Receiving Water/task_e.pdf)
 - [Chinese Description](../../dataset/Receiving Water/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Receiving Water/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Receiving Water/task_c_mzn.txt)
 
 #### Problem Description

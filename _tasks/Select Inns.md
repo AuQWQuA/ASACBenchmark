@@ -12,7 +12,6 @@ difficulty: 0.63
 - [English Description](../../dataset/Select Inns/task_e.pdf)
 - [Chinese Description](../../dataset/Select Inns/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Select Inns/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Select Inns/task_c_mzn.txt)
 
 #### Problem Description

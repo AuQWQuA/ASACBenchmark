@@ -13,7 +13,6 @@ difficulty: 0.79
 - [English Description](../../dataset/Huarong Road/task_e.pdf)
 - [Chinese Description](../../dataset/Huarong Road/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Huarong Road/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Huarong Road/task_c_mzn.txt)
 
 #### Problem Description

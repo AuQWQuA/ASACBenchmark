@@ -16,7 +16,6 @@ difficulty: 0.71
 - [English Description](../../dataset/Epidemic Control/task_e.pdf)
 - [Chinese Description](../../dataset/Epidemic Control/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Epidemic Control/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Epidemic Control/task_c_mzn.txt)
 
 #### Problem Description

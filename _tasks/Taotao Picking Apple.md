@@ -12,7 +12,6 @@ difficulty: 0.43
 - [English Description](../../dataset/Taotao Picking Apple/task_e.pdf)
 - [Chinese Description](../../dataset/Taotao Picking Apple/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Taotao Picking Apple/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Taotao Picking Apple/task_c_mzn.txt)
 
 #### Problem Description

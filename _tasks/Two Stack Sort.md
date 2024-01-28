@@ -13,7 +13,6 @@ difficulty: 0.66
 - [English Description](../../dataset/Two Stack Sort/task_e.pdf)
 - [Chinese Description](../../dataset/Two Stack Sort/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Two Stack Sort/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Two Stack Sort/task_c_mzn.txt)
 
 #### Problem Description

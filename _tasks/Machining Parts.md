@@ -12,7 +12,6 @@ difficulty: 0.8
 - [English Description](../../dataset/Machining Parts/task_e.pdf)
 - [Chinese Description](../../dataset/Machining Parts/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Machining Parts/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Machining Parts/task_c_mzn.txt)
 
 #### Problem Description

@@ -13,7 +13,6 @@ difficulty: 0.54
 - [English Description](../../dataset/Mingming’s Random Number/task_e.pdf)
 - [Chinese Description](../../dataset/Mingming’s Random Number/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Mingming’s Random Number/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Mingming’s Random Number/task_c_mzn.txt)
 
 #### Problem Description

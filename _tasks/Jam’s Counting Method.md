@@ -12,7 +12,6 @@ difficulty: 0.41
 - [English Description](../../dataset/Jam’s Counting Method/task_e.pdf)
 - [Chinese Description](../../dataset/Jam’s Counting Method/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Jam’s Counting Method/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Jam’s Counting Method/task_c_mzn.txt)
 
 #### Problem Description

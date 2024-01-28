@@ -14,7 +14,6 @@ difficulty: 0.85
 - [English Description](../../dataset/Defend the Kingdom/task_e.pdf)
 - [Chinese Description](../../dataset/Defend the Kingdom/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Defend the Kingdom/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Defend the Kingdom/task_c_mzn.txt)
 
 #### Problem Description

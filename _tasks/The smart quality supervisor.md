@@ -14,7 +14,6 @@ difficulty: 0.74
 - [English Description](../../dataset/The smart quality supervisor/task_e.pdf)
 - [Chinese Description](../../dataset/The smart quality supervisor/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/The smart quality supervisor/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/The smart quality supervisor/task_c_mzn.txt)
 
 #### Problem Description

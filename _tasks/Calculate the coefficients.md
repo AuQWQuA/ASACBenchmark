@@ -12,7 +12,6 @@ difficulty: 0.65
 - [English Description](../../dataset/Calculate the coefficients/task_e.pdf)
 - [Chinese Description](../../dataset/Calculate the coefficients/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Calculate the coefficients/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Calculate the coefficients/task_c_mzn.txt)
 
 #### Problem Description

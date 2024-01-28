@@ -15,7 +15,6 @@ difficulty: 0.7
 - [English Description](../../dataset/Circle/task_e.pdf)
 - [Chinese Description](../../dataset/Circle/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Circle/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Circle/task_c_mzn.txt)
 
 #### Problem Description

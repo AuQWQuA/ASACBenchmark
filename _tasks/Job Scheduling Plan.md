@@ -12,7 +12,6 @@ difficulty: 0.64
 - [English Description](../../dataset/Job Scheduling Plan/task_e.pdf)
 - [Chinese Description](../../dataset/Job Scheduling Plan/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Job Scheduling Plan/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Job Scheduling Plan/task_c_mzn.txt)
 
 #### Problem Description

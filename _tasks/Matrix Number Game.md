@@ -14,7 +14,6 @@ difficulty: 0.7
 - [English Description](../../dataset/Matrix Number Game/task_e.pdf)
 - [Chinese Description](../../dataset/Matrix Number Game/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Matrix Number Game/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Matrix Number Game/task_c_mzn.txt)
 
 #### Problem Description

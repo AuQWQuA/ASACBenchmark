@@ -14,7 +14,6 @@ difficulty: 0.47
 - [English Description](../../dataset/Martian/task_e.pdf)
 - [Chinese Description](../../dataset/Martian/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Martian/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Martian/task_c_mzn.txt)
 
 #### Problem Description

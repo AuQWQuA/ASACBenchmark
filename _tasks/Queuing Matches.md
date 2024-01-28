@@ -13,7 +13,6 @@ difficulty: 0.6
 - [English Description](../../dataset/Queuing Matches/task_e.pdf)
 - [Chinese Description](../../dataset/Queuing Matches/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Queuing Matches/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Queuing Matches/task_c_mzn.txt)
 
 #### Problem Description

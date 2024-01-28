@@ -13,7 +13,6 @@ difficulty: 0.73
 - [English Description](../../dataset/Treasure Hunt/task_e.pdf)
 - [Chinese Description](../../dataset/Treasure Hunt/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Treasure Hunt/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Treasure Hunt/task_c_mzn.txt)
 
 #### Problem Description

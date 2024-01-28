@@ -15,7 +15,6 @@ difficulty: 0.77
 - [English Description](../../dataset/Cultural Journey/task_e.pdf)
 - [Chinese Description](../../dataset/Cultural Journey/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Cultural Journey/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Cultural Journey/task_c_mzn.txt)
 
 #### Problem Description

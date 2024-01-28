@@ -14,7 +14,6 @@ difficulty: 0.72
 - [English Description](../../dataset/Polynomial Output/task_e.pdf)
 - [Chinese Description](../../dataset/Polynomial Output/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Polynomial Output/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Polynomial Output/task_c_mzn.txt)
 
 #### Problem Description

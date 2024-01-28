@@ -14,7 +14,6 @@ difficulty: 0.42
 - [English Description](../../dataset/Building Block Competition/task_e.pdf)
 - [Chinese Description](../../dataset/Building Block Competition/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Building Block Competition/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Building Block Competition/task_c_mzn.txt)
 
 #### Problem Description

@@ -14,7 +14,6 @@ difficulty: 0.8
 - [English Description](../../dataset/Flappy Bird/task_e.pdf)
 - [Chinese Description](../../dataset/Flappy Bird/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Flappy Bird/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Flappy Bird/task_c_mzn.txt)
 
 #### Problem Description

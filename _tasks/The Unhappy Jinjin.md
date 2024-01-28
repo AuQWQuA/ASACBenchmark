@@ -12,7 +12,6 @@ difficulty: 0.52
 - [English Description](../../dataset/The Unhappy Jinjin/task_e.pdf)
 - [Chinese Description](../../dataset/The Unhappy Jinjin/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/The Unhappy Jinjin/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/The Unhappy Jinjin/task_c_mzn.txt)
 
 #### Problem Description

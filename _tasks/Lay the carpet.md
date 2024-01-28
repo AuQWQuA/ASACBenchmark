@@ -13,7 +13,6 @@ difficulty: 0.66
 - [English Description](../../dataset/Lay the carpet/task_e.pdf)
 - [Chinese Description](../../dataset/Lay the carpet/task_c.pdf)
 - [MiniZinc Specification(English)](../../dataset/Lay the carpet/task_e_mzn.txt)
-
 - [MiniZinc Specification(Chinese)](../../dataset/Lay the carpet/task_c_mzn.txt)
 
 #### Problem Description
