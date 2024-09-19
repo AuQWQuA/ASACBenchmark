@@ -2,24 +2,11 @@
 layout: page
 title: Harbor
 tags:
-  - [
-  - '
-  - S
-  - i
-  - m
-  - u
-  - l
-  - a
-  - t
-  - i
-  - o
-  - n
-  - '
-  - ]
+  - Simulation
 difficulty: 0.71
 ---
 
-#### Tags: [, ', S, i, m, u, l, a, t, i, o, n, ', ]
+#### Tags: Simulation
 #### Difficulty: 0.71 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Harbor.zip)
 #### Overview
 - [English Description](../../dataset/Harbor/task_e.pdf)

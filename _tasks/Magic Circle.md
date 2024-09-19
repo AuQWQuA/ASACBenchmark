@@ -2,12 +2,10 @@
 layout: page
 title: Magic Circle
 tags:
-  - [
-  - ]
 difficulty: 0.78
 ---
 
-#### Tags: [, ]
+#### Tags: 
 #### Difficulty: 0.78 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Magic Circle.zip)
 #### Overview
 - [English Description](../../dataset/Magic Circle/task_e.pdf)

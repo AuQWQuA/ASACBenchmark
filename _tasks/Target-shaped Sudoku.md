@@ -2,49 +2,13 @@
 layout: page
 title: Target-shaped Sudoku
 tags:
-  - [
-  - '
-  - S
-  - e
-  - a
-  - r
-  - c
-  - h
-  - '
-  - ,
-  -  
-  - '
-  - P
-  - r
-  - u
-  - n
-  - i
-  - n
-  - g
-  - '
-  - ,
-  -  
-  - '
-  - B
-  - i
-  - t
-  -  
-  - O
-  - p
-  - e
-  - r
-  - a
-  - t
-  - i
-  - o
-  - n
-  - s
-  - '
-  - ]
+  - Search
+  - Pruning
+  - Bit Operations
 difficulty: 0.75
 ---
 
-#### Tags: [, ', S, e, a, r, c, h, ', ,,  , ', P, r, u, n, i, n, g, ', ,,  , ', B, i, t,  , O, p, e, r, a, t, i, o, n, s, ', ]
+#### Tags: Search, Pruning, Bit Operations
 #### Difficulty: 0.75 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Target-shaped Sudoku.zip)
 #### Overview
 - [English Description](../../dataset/Target-shaped Sudoku/task_e.pdf)

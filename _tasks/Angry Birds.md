@@ -2,31 +2,12 @@
 layout: page
 title: Angry Birds
 tags:
-  - [
-  - '
-  - B
-  - i
-  - t
-  - m
-  - a
-  - s
-  - k
-  - '
-  - ,
-  -  
-  - '
-  - S
-  - e
-  - a
-  - r
-  - c
-  - h
-  - '
-  - ]
+  - Bitmask
+  - Search
 difficulty: 0.7
 ---
 
-#### Tags: [, ', B, i, t, m, a, s, k, ', ,,  , ', S, e, a, r, c, h, ', ]
+#### Tags: Bitmask, Search
 #### Difficulty: 0.7 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Angry Birds.zip)
 #### Overview
 - [English Description](../../dataset/Angry Birds/task_e.pdf)

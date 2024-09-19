@@ -2,40 +2,13 @@
 layout: page
 title: Flappy Bird
 tags:
-  - [
-  - '
-  - B
-  - a
-  - g
-  - g
-  - i
-  - n
-  - g
-  - '
-  - ,
-  -  
-  - '
-  - E
-  - n
-  - u
-  - m
-  - e
-  - r
-  - a
-  - t
-  - e
-  - '
-  - ,
-  -  
-  - '
-  - D
-  - P
-  - '
-  - ]
+  - Bagging
+  - Enumerate
+  - DP
 difficulty: 0.8
 ---
 
-#### Tags: [, ', B, a, g, g, i, n, g, ', ,,  , ', E, n, u, m, e, r, a, t, e, ', ,,  , ', D, P, ', ]
+#### Tags: Bagging, Enumerate, DP
 #### Difficulty: 0.8 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Flappy Bird.zip)
 #### Overview
 - [English Description](../../dataset/Flappy Bird/task_e.pdf)

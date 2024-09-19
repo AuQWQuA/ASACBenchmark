@@ -2,50 +2,14 @@
 layout: page
 title: Submatrix
 tags:
-  - [
-  - '
-  - P
-  - r
-  - u
-  - n
-  - i
-  - n
-  - g
-  - '
-  - ,
-  -  
-  - '
-  - S
-  - e
-  - a
-  - r
-  - c
-  - h
-  - '
-  - ,
-  -  
-  - '
-  - E
-  - n
-  - u
-  - m
-  - e
-  - r
-  - a
-  - t
-  - e
-  - '
-  - ,
-  -  
-  - '
-  - D
-  - P
-  - '
-  - ]
+  - Pruning
+  - Search
+  - Enumerate
+  - DP
 difficulty: 0.65
 ---
 
-#### Tags: [, ', P, r, u, n, i, n, g, ', ,,  , ', S, e, a, r, c, h, ', ,,  , ', E, n, u, m, e, r, a, t, e, ', ,,  , ', D, P, ', ]
+#### Tags: Pruning, Search, Enumerate, DP
 #### Difficulty: 0.65 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Submatrix.zip)
 #### Overview
 - [English Description](../../dataset/Submatrix/task_e.pdf)

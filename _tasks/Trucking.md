@@ -2,80 +2,16 @@
 layout: page
 title: Trucking
 tags:
-  - [
-  - '
-  - L
-  - C
-  - A
-  - '
-  - ,
-  -  
-  - '
-  - U
-  - F
-  - D
-  - S
-  - '
-  - ,
-  -  
-  - '
-  - G
-  - r
-  - e
-  - e
-  - d
-  - y
-  - '
-  - ,
-  -  
-  - '
-  - M
-  - u
-  - l
-  - t
-  - i
-  - p
-  - l
-  - y
-  - '
-  - ,
-  -  
-  - '
-  - S
-  - p
-  - a
-  - n
-  - n
-  - i
-  - n
-  - g
-  -  
-  - T
-  - r
-  - e
-  - e
-  - '
-  - ,
-  -  
-  - '
-  - G
-  - r
-  - a
-  - p
-  - h
-  -  
-  - T
-  - h
-  - e
-  - o
-  - r
-  - y
-  - '
-  - ]
+  - LCA
+  - UFDS
+  - Greedy
+  - Multiply
+  - Spanning Tree
+  - Graph Theory
 difficulty: 0.7
 ---
 
-#### Tags: [, ', L, C, A, ', ,,  , ', U, F, D, S, ', ,,  , ', G, r, e, e, d, y, ', ,,  , ', M, u, l, t, i, p, l, y, ', ,,  , ', S, p, a, n, n, i, n, g,  , T, r, e, e, ', ,,  , ', G, r, a, p, h,  , T, h, e, o, r, y, ', ]
+#### Tags: LCA, UFDS, Greedy, Multiply, Spanning Tree, Graph Theory
 #### Difficulty: 0.7 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Trucking.zip)
 #### Overview
 - [English Description](../../dataset/Trucking/task_e.pdf)

@@ -2,36 +2,12 @@
 layout: page
 title: Huarong Road
 tags:
-  - [
-  - '
-  - S
-  - e
-  - a
-  - r
-  - c
-  - h
-  - '
-  - ,
-  -  
-  - '
-  - G
-  - r
-  - a
-  - p
-  - h
-  -  
-  - T
-  - h
-  - e
-  - o
-  - r
-  - y
-  - '
-  - ]
+  - Search
+  - Graph Theory
 difficulty: 0.79
 ---
 
-#### Tags: [, ', S, e, a, r, c, h, ', ,,  , ', G, r, a, p, h,  , T, h, e, o, r, y, ', ]
+#### Tags: Search, Graph Theory
 #### Difficulty: 0.79 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Huarong Road.zip)
 #### Overview
 - [English Description](../../dataset/Huarong Road/task_e.pdf)

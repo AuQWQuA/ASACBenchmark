@@ -2,24 +2,11 @@
 layout: page
 title: Buying Pencils
 tags:
-  - [
-  - '
-  - S
-  - i
-  - m
-  - u
-  - l
-  - a
-  - t
-  - i
-  - o
-  - n
-  - '
-  - ]
+  - Simulation
 difficulty: 0.58
 ---
 
-#### Tags: [, ', S, i, m, u, l, a, t, i, o, n, ', ]
+#### Tags: Simulation
 #### Difficulty: 0.58 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Buying Pencils.zip)
 #### Overview
 - [English Description](../../dataset/Buying Pencils/task_e.pdf)

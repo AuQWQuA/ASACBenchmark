@@ -2,37 +2,13 @@
 layout: page
 title: Doudizhu
 tags:
-  - [
-  - '
-  - D
-  - F
-  - S
-  - '
-  - ,
-  -  
-  - '
-  - G
-  - r
-  - e
-  - e
-  - d
-  - y
-  - '
-  - ,
-  -  
-  - '
-  - S
-  - e
-  - a
-  - r
-  - c
-  - h
-  - '
-  - ]
+  - DFS
+  - Greedy
+  - Search
 difficulty: 0.76
 ---
 
-#### Tags: [, ', D, F, S, ', ,,  , ', G, r, e, e, d, y, ', ,,  , ', S, e, a, r, c, h, ', ]
+#### Tags: DFS, Greedy, Search
 #### Difficulty: 0.76 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Doudizhu.zip)
 #### Overview
 - [English Description](../../dataset/Doudizhu/task_e.pdf)

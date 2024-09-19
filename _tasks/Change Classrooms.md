@@ -2,31 +2,12 @@
 layout: page
 title: Change Classrooms
 tags:
-  - [
-  - '
-  - E
-  - x
-  - p
-  - e
-  - c
-  - t
-  - a
-  - t
-  - i
-  - o
-  - n
-  - '
-  - ,
-  -  
-  - '
-  - D
-  - P
-  - '
-  - ]
+  - Expectation
+  - DP
 difficulty: 0.75
 ---
 
-#### Tags: [, ', E, x, p, e, c, t, a, t, i, o, n, ', ,,  , ', D, P, ', ]
+#### Tags: Expectation, DP
 #### Difficulty: 0.75 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Change Classrooms.zip)
 #### Overview
 - [English Description](../../dataset/Change Classrooms/task_e.pdf)

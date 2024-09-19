@@ -2,47 +2,13 @@
 layout: page
 title: Today’s Meal at Emiya’s House
 tags:
-  - [
-  - '
-  - I
-  - n
-  - c
-  - l
-  - u
-  - s
-  - i
-  - o
-  - n
-  - -
-  - E
-  - x
-  - c
-  - l
-  - u
-  - s
-  - i
-  - o
-  - n
-  - '
-  - ,
-  -  
-  - '
-  - D
-  - P
-  - '
-  - ,
-  -  
-  - '
-  - M
-  - a
-  - t
-  - h
-  - '
-  - ]
+  - Inclusion-Exclusion
+  - DP
+  - Math
 difficulty: 0.8
 ---
 
-#### Tags: [, ', I, n, c, l, u, s, i, o, n, -, E, x, c, l, u, s, i, o, n, ', ,,  , ', D, P, ', ,,  , ', M, a, t, h, ', ]
+#### Tags: Inclusion-Exclusion, DP, Math
 #### Difficulty: 0.8 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Today’s Meal at Emiya’s House.zip)
 #### Overview
 - [English Description](../../dataset/Today’s Meal at Emiya’s House/task_e.pdf)

@@ -2,62 +2,13 @@
 layout: page
 title: Shipping Plan
 tags:
-  - [
-  - '
-  - H
-  - e
-  - a
-  - v
-  - y
-  - -
-  - L
-  - i
-  - g
-  - h
-  - t
-  -  
-  - D
-  - e
-  - c
-  - o
-  - m
-  - p
-  - o
-  - s
-  - i
-  - t
-  - i
-  - o
-  - n
-  - '
-  - ,
-  -  
-  - '
-  - L
-  - C
-  - A
-  - '
-  - ,
-  -  
-  - '
-  - G
-  - r
-  - a
-  - p
-  - h
-  -  
-  - T
-  - h
-  - e
-  - o
-  - r
-  - y
-  - '
-  - ]
+  - Heavy-Light Decomposition
+  - LCA
+  - Graph Theory
 difficulty: 0.75
 ---
 
-#### Tags: [, ', H, e, a, v, y, -, L, i, g, h, t,  , D, e, c, o, m, p, o, s, i, t, i, o, n, ', ,,  , ', L, C, A, ', ,,  , ', G, r, a, p, h,  , T, h, e, o, r, y, ', ]
+#### Tags: Heavy-Light Decomposition, LCA, Graph Theory
 #### Difficulty: 0.75 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Shipping Plan.zip)
 #### Overview
 - [English Description](../../dataset/Shipping Plan/task_e.pdf)

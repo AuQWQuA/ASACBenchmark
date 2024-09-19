@@ -2,22 +2,11 @@
 layout: page
 title: Travel By Car
 tags:
-  - [
-  - '
-  - M
-  - u
-  - l
-  - t
-  - i
-  - p
-  - l
-  - y
-  - '
-  - ]
+  - Multiply
 difficulty: 0.68
 ---
 
-#### Tags: [, ', M, u, l, t, i, p, l, y, ', ]
+#### Tags: Multiply
 #### Difficulty: 0.68 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Travel By Car.zip)
 #### Overview
 - [English Description](../../dataset/Travel By Car/task_e.pdf)

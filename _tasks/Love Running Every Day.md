@@ -2,103 +2,17 @@
 layout: page
 title: Love Running Every Day
 tags:
-  - [
-  - '
-  - L
-  - C
-  - A
-  - '
-  - ,
-  -  
-  - '
-  - S
-  - e
-  - g
-  - m
-  - e
-  - n
-  - t
-  -  
-  - T
-  - r
-  - e
-  - e
-  - '
-  - ,
-  -  
-  - '
-  - L
-  - i
-  - n
-  - k
-  - -
-  - C
-  - u
-  - t
-  - '
-  - ,
-  -  
-  - '
-  - H
-  - e
-  - a
-  - v
-  - y
-  - -
-  - L
-  - i
-  - g
-  - h
-  - t
-  -  
-  - D
-  - e
-  - c
-  - o
-  - m
-  - p
-  - o
-  - s
-  - i
-  - t
-  - i
-  - o
-  - n
-  - '
-  - ,
-  -  
-  - '
-  - D
-  - i
-  - f
-  - f
-  - e
-  - r
-  - e
-  - n
-  - c
-  - e
-  - '
-  - ,
-  -  
-  - '
-  - L
-  - C
-  - T
-  - '
-  - ,
-  -  
-  - '
-  - T
-  - r
-  - e
-  - e
-  - '
-  - ]
+  - LCA
+  - Segment Tree
+  - Link-Cut
+  - Heavy-Light Decomposition
+  - Difference
+  - LCT
+  - Tree
 difficulty: 0.77
 ---
 
-#### Tags: [, ', L, C, A, ', ,,  , ', S, e, g, m, e, n, t,  , T, r, e, e, ', ,,  , ', L, i, n, k, -, C, u, t, ', ,,  , ', H, e, a, v, y, -, L, i, g, h, t,  , D, e, c, o, m, p, o, s, i, t, i, o, n, ', ,,  , ', D, i, f, f, e, r, e, n, c, e, ', ,,  , ', L, C, T, ', ,,  , ', T, r, e, e, ', ]
+#### Tags: LCA, Segment Tree, Link-Cut, Heavy-Light Decomposition, Difference, LCT, Tree
 #### Difficulty: 0.77 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Love Running Every Day.zip)
 #### Overview
 - [English Description](../../dataset/Love Running Every Day/task_e.pdf)

@@ -2,24 +2,11 @@
 layout: page
 title: Toy Puzzle
 tags:
-  - [
-  - '
-  - S
-  - i
-  - m
-  - u
-  - l
-  - a
-  - t
-  - i
-  - o
-  - n
-  - '
-  - ]
+  - Simulation
 difficulty: 0.63
 ---
 
-#### Tags: [, ', S, i, m, u, l, a, t, i, o, n, ', ]
+#### Tags: Simulation
 #### Difficulty: 0.63 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Toy Puzzle.zip)
 #### Overview
 - [English Description](../../dataset/Toy Puzzle/task_e.pdf)

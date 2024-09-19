@@ -2,27 +2,12 @@
 layout: page
 title: Earthworms
 tags:
-  - [
-  - '
-  - H
-  - e
-  - a
-  - p
-  - '
-  - ,
-  -  
-  - '
-  - Q
-  - u
-  - e
-  - u
-  - e
-  - '
-  - ]
+  - Heap
+  - Queue
 difficulty: 0.8
 ---
 
-#### Tags: [, ', H, e, a, p, ', ,,  , ', Q, u, e, u, e, ', ]
+#### Tags: Heap, Queue
 #### Difficulty: 0.8 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Earthworms.zip)
 #### Overview
 - [English Description](../../dataset/Earthworms/task_e.pdf)

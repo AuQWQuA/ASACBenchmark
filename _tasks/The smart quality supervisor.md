@@ -2,45 +2,13 @@
 layout: page
 title: The smart quality supervisor
 tags:
-  - [
-  - '
-  - B
-  - i
-  - p
-  - a
-  - r
-  - t
-  - i
-  - t
-  - e
-  - '
-  - ,
-  -  
-  - '
-  - P
-  - r
-  - e
-  - f
-  - i
-  - x
-  -  
-  - S
-  - u
-  - m
-  - '
-  - ,
-  -  
-  - '
-  - M
-  - a
-  - t
-  - h
-  - '
-  - ]
+  - Bipartite
+  - Prefix Sum
+  - Math
 difficulty: 0.74
 ---
 
-#### Tags: [, ', B, i, p, a, r, t, i, t, e, ', ,,  , ', P, r, e, f, i, x,  , S, u, m, ', ,,  , ', M, a, t, h, ', ]
+#### Tags: Bipartite, Prefix Sum, Math
 #### Difficulty: 0.74 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/The smart quality supervisor.zip)
 #### Overview
 - [English Description](../../dataset/The smart quality supervisor/task_e.pdf)

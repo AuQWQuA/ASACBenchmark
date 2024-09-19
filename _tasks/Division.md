@@ -2,39 +2,12 @@
 layout: page
 title: Division
 tags:
-  - [
-  - '
-  - G
-  - r
-  - e
-  - e
-  - d
-  - y
-  - '
-  - ,
-  -  
-  - '
-  - M
-  - o
-  - n
-  - o
-  - t
-  - o
-  - n
-  - i
-  - c
-  -  
-  - Q
-  - u
-  - e
-  - u
-  - e
-  - '
-  - ]
+  - Greedy
+  - Monotonic Queue
 difficulty: 0.91
 ---
 
-#### Tags: [, ', G, r, e, e, d, y, ', ,,  , ', M, o, n, o, t, o, n, i, c,  , Q, u, e, u, e, ', ]
+#### Tags: Greedy, Monotonic Queue
 #### Difficulty: 0.91 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Division.zip)
 #### Overview
 - [English Description](../../dataset/Division/task_e.pdf)

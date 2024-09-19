@@ -2,51 +2,13 @@
 layout: page
 title: Borrow Classrooms
 tags:
-  - [
-  - '
-  - B
-  - i
-  - p
-  - a
-  - r
-  - t
-  - i
-  - t
-  - e
-  - '
-  - ,
-  -  
-  - '
-  - P
-  - r
-  - e
-  - f
-  - i
-  - x
-  -  
-  - S
-  - u
-  - m
-  - '
-  - ,
-  -  
-  - '
-  - D
-  - i
-  - f
-  - f
-  - e
-  - r
-  - e
-  - n
-  - c
-  - e
-  - '
-  - ]
+  - Bipartite
+  - Prefix Sum
+  - Difference
 difficulty: 0.7
 ---
 
-#### Tags: [, ', B, i, p, a, r, t, i, t, e, ', ,,  , ', P, r, e, f, i, x,  , S, u, m, ', ,,  , ', D, i, f, f, e, r, e, n, c, e, ', ]
+#### Tags: Bipartite, Prefix Sum, Difference
 #### Difficulty: 0.7 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Borrow Classrooms.zip)
 #### Overview
 - [English Description](../../dataset/Borrow Classrooms/task_e.pdf)

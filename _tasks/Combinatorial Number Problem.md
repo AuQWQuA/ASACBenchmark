@@ -2,35 +2,12 @@
 layout: page
 title: Combinatorial Number Problem
 tags:
-  - [
-  - '
-  - C
-  - o
-  - m
-  - b
-  - i
-  - n
-  - a
-  - t
-  - o
-  - r
-  - i
-  - c
-  - s
-  - '
-  - ,
-  -  
-  - '
-  - M
-  - a
-  - t
-  - h
-  - '
-  - ]
+  - Combinatorics
+  - Math
 difficulty: 0.73
 ---
 
-#### Tags: [, ', C, o, m, b, i, n, a, t, o, r, i, c, s, ', ,,  , ', M, a, t, h, ', ]
+#### Tags: Combinatorics, Math
 #### Difficulty: 0.73 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Combinatorial Number Problem.zip)
 #### Overview
 - [English Description](../../dataset/Combinatorial Number Problem/task_e.pdf)

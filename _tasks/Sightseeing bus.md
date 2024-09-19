@@ -2,33 +2,12 @@
 layout: page
 title: Sightseeing bus
 tags:
-  - [
-  - '
-  - G
-  - r
-  - e
-  - e
-  - d
-  - y
-  - '
-  - ,
-  -  
-  - '
-  - R
-  - e
-  - c
-  - u
-  - r
-  - s
-  - i
-  - o
-  - n
-  - '
-  - ]
+  - Greedy
+  - Recursion
 difficulty: 0.67
 ---
 
-#### Tags: [, ', G, r, e, e, d, y, ', ,,  , ', R, e, c, u, r, s, i, o, n, ', ]
+#### Tags: Greedy, Recursion
 #### Difficulty: 0.67 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Sightseeing bus.zip)
 #### Overview
 - [English Description](../../dataset/Sightseeing bus/task_e.pdf)
