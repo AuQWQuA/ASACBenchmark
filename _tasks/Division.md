@@ -2,12 +2,39 @@
 layout: page
 title: Division
 tags:
-  - Greedy
-  - Monotonic Queue
+  - [
+  - '
+  - G
+  - r
+  - e
+  - e
+  - d
+  - y
+  - '
+  - ,
+  -  
+  - '
+  - M
+  - o
+  - n
+  - o
+  - t
+  - o
+  - n
+  - i
+  - c
+  -  
+  - Q
+  - u
+  - e
+  - u
+  - e
+  - '
+  - ]
 difficulty: 0.91
 ---
 
-#### Tags: Greedy, Monotonic Queue
+#### Tags: [, ', G, r, e, e, d, y, ', ,,  , ', M, o, n, o, t, o, n, i, c,  , Q, u, e, u, e, ', ]
 #### Difficulty: 0.91 &nbsp;&nbsp;&nbsp;&nbsp; [Download⬇️](../../dataset/Division.zip)
 #### Overview
 - [English Description](../../dataset/Division/task_e.pdf)
@@ -19,9 +46,9 @@ difficulty: 0.91
 We provide the natural language description of the task in 3 formats (.pdf,.docx,.md) and 2 languages (Chinese, English), the formal specification of MiniZinc description, which can be obtained by clicking the link under the title to download the whole task
 #### Test
 ##### Input:
-- MiniZinc Input [Download](../../dataset/Division/tests/mzn_form.zip){:download="Division mzn.zip"} [1](../../dataset/Division/tests/mzn_form/1_dzn.txt) [2](../../dataset/Division/tests/mzn_form/2_dzn.txt) [3](../../dataset/Division/tests/mzn_form/3_dzn.txt) [4](../../dataset/Division/tests/mzn_form/4_dzn.txt) [5](../../dataset/Division/tests/mzn_form/5_dzn.txt) [6](../../dataset/Division/tests/mzn_form/6_dzn.txt) [7](../../dataset/Division/tests/mzn_form/7_dzn.txt) [8](../../dataset/Division/tests/mzn_form/8_dzn.txt) [9](../../dataset/Division/tests/mzn_form/9_dzn.txt) [10](../../dataset/Division/tests/mzn_form/10_dzn.txt) [11](../../dataset/Division/tests/mzn_form/11_dzn.txt) [12](../../dataset/Division/tests/mzn_form/12_dzn.txt) [13](../../dataset/Division/tests/mzn_form/13_dzn.txt) [14](../../dataset/Division/tests/mzn_form/14_dzn.txt) [15](../../dataset/Division/tests/mzn_form/15_dzn.txt) [16](../../dataset/Division/tests/mzn_form/16_dzn.txt) [17](../../dataset/Division/tests/mzn_form/17_dzn.txt) [18](../../dataset/Division/tests/mzn_form/18_dzn.txt) [19](../../dataset/Division/tests/mzn_form/19_dzn.txt) [20](../../dataset/Division/tests/mzn_form/20_dzn.txt) 
-- Terminal Input [Download](../../dataset/Division/tests/origin_form.zip){:download="Division ori.zip"} [1](../../dataset/Division/tests/origin_form/1.in) [2](../../dataset/Division/tests/origin_form/2.in) [3](../../dataset/Division/tests/origin_form/3.in) [4](../../dataset/Division/tests/origin_form/4.in) [5](../../dataset/Division/tests/origin_form/5.in) [6](../../dataset/Division/tests/origin_form/6.in) [7](../../dataset/Division/tests/origin_form/7.in) [8](../../dataset/Division/tests/origin_form/8.in) [9](../../dataset/Division/tests/origin_form/9.in) [10](../../dataset/Division/tests/origin_form/10.in) [11](../../dataset/Division/tests/origin_form/11.in) [12](../../dataset/Division/tests/origin_form/12.in) [13](../../dataset/Division/tests/origin_form/13.in) [14](../../dataset/Division/tests/origin_form/14.in) [15](../../dataset/Division/tests/origin_form/15.in) [16](../../dataset/Division/tests/origin_form/16.in) [17](../../dataset/Division/tests/origin_form/17.in) [18](../../dataset/Division/tests/origin_form/18.in) [19](../../dataset/Division/tests/origin_form/19.in) [20](../../dataset/Division/tests/origin_form/20.in) 
+- MiniZinc Input [Download](../../dataset/Division/tests/mzn_form.zip){:download="Division mzn.zip"} [1](../../dataset/Division/tests/mzn_form/1_dzn.txt) [2](../../dataset/Division/tests/mzn_form/2_dzn.txt) [3](../../dataset/Division/tests/mzn_form/3_dzn.txt) [4](../../dataset/Division/tests/mzn_form/4_dzn.txt) [5](../../dataset/Division/tests/mzn_form/5_dzn.txt) [6](../../dataset/Division/tests/mzn_form/6_dzn.txt) [7](../../dataset/Division/tests/mzn_form/7_dzn.txt) [8](../../dataset/Division/tests/mzn_form/8_dzn.txt) [9](../../dataset/Division/tests/mzn_form/9_dzn.txt) [10](../../dataset/Division/tests/mzn_form/10_dzn.txt) [11](../../dataset/Division/tests/mzn_form/11_dzn.txt) [12](../../dataset/Division/tests/mzn_form/12_dzn.txt) [13](../../dataset/Division/tests/mzn_form/13_dzn.txt) [14](../../dataset/Division/tests/mzn_form/14_dzn.txt) [15](../../dataset/Division/tests/mzn_form/15_dzn.txt) [16](../../dataset/Division/tests/mzn_form/16_dzn.txt) [17](../../dataset/Division/tests/mzn_form/17_dzn.txt) [18](../../dataset/Division/tests/mzn_form/18_dzn.txt) [19](../../dataset/Division/tests/mzn_form/19_dzn.txt) [20](../../dataset/Division/tests/mzn_form/20_dzn.txt) [21](../../dataset/Division/tests/mzn_form/21_dzn.txt) [22](../../dataset/Division/tests/mzn_form/22_dzn.txt) 
+- Terminal Input [Download](../../dataset/Division/tests/origin_form.zip){:download="Division ori.zip"} [1](../../dataset/Division/tests/origin_form/1.in) [2](../../dataset/Division/tests/origin_form/2.in) [3](../../dataset/Division/tests/origin_form/3.in) [4](../../dataset/Division/tests/origin_form/4.in) [5](../../dataset/Division/tests/origin_form/5.in) [6](../../dataset/Division/tests/origin_form/6.in) [7](../../dataset/Division/tests/origin_form/7.in) [8](../../dataset/Division/tests/origin_form/8.in) [9](../../dataset/Division/tests/origin_form/9.in) [10](../../dataset/Division/tests/origin_form/10.in) [11](../../dataset/Division/tests/origin_form/11.in) [12](../../dataset/Division/tests/origin_form/12.in) [13](../../dataset/Division/tests/origin_form/13.in) [14](../../dataset/Division/tests/origin_form/14.in) [15](../../dataset/Division/tests/origin_form/15.in) [16](../../dataset/Division/tests/origin_form/16.in) [17](../../dataset/Division/tests/origin_form/17.in) [18](../../dataset/Division/tests/origin_form/18.in) [19](../../dataset/Division/tests/origin_form/19.in) [20](../../dataset/Division/tests/origin_form/20.in) [21](../../dataset/Division/tests/origin_form/21.in) [22](../../dataset/Division/tests/origin_form/22.in) 
 
 ##### Output:
-- Output [Download](../../dataset/Division/tests/ans.zip){:download="Division ans.zip"} [1](../../dataset/Division/tests/ans/1_out.txt) [2](../../dataset/Division/tests/ans/2_out.txt) [3](../../dataset/Division/tests/ans/3_out.txt) [4](../../dataset/Division/tests/ans/4_out.txt) [5](../../dataset/Division/tests/ans/5_out.txt) [6](../../dataset/Division/tests/ans/6_out.txt) [7](../../dataset/Division/tests/ans/7_out.txt) [8](../../dataset/Division/tests/ans/8_out.txt) [9](../../dataset/Division/tests/ans/9_out.txt) [10](../../dataset/Division/tests/ans/10_out.txt) [11](../../dataset/Division/tests/ans/11_out.txt) [12](../../dataset/Division/tests/ans/12_out.txt) [13](../../dataset/Division/tests/ans/13_out.txt) [14](../../dataset/Division/tests/ans/14_out.txt) [15](../../dataset/Division/tests/ans/15_out.txt) [16](../../dataset/Division/tests/ans/16_out.txt) [17](../../dataset/Division/tests/ans/17_out.txt) [18](../../dataset/Division/tests/ans/18_out.txt) [19](../../dataset/Division/tests/ans/19_out.txt) [20](../../dataset/Division/tests/ans/20_out.txt) 
+- Output [Download](../../dataset/Division/tests/ans.zip){:download="Division ans.zip"} [1](../../dataset/Division/tests/ans/1_out.txt) [2](../../dataset/Division/tests/ans/2_out.txt) [3](../../dataset/Division/tests/ans/3_out.txt) [4](../../dataset/Division/tests/ans/4_out.txt) [5](../../dataset/Division/tests/ans/5_out.txt) [6](../../dataset/Division/tests/ans/6_out.txt) [7](../../dataset/Division/tests/ans/7_out.txt) [8](../../dataset/Division/tests/ans/8_out.txt) [9](../../dataset/Division/tests/ans/9_out.txt) [10](../../dataset/Division/tests/ans/10_out.txt) [11](../../dataset/Division/tests/ans/11_out.txt) [12](../../dataset/Division/tests/ans/12_out.txt) [13](../../dataset/Division/tests/ans/13_out.txt) [14](../../dataset/Division/tests/ans/14_out.txt) [15](../../dataset/Division/tests/ans/15_out.txt) [16](../../dataset/Division/tests/ans/16_out.txt) [17](../../dataset/Division/tests/ans/17_out.txt) [18](../../dataset/Division/tests/ans/18_out.txt) [19](../../dataset/Division/tests/ans/19_out.txt) [20](../../dataset/Division/tests/ans/20_out.txt) [21](../../dataset/Division/tests/ans/21_out.txt) [22](../../dataset/Division/tests/ans/22_out.txt) 
 

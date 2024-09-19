@@ -1,0 +1,137 @@
+Formatted Name,Serial,Group,Year,Name,Category,Pass Rate,EnglishName,EnglishCategory,testnum
+NOIP2004-J,T1,普及组,2004,不高兴的津津,['枚举'],0.48024646611090976,The Unhappy Jinjin,['Enumerate'],10
+NOIP2004-J,T2,普及组,2004,花生采摘,"['模拟', '搜索']",0.3931941664283672,Peanut Picking,"['Search', 'Simulation']",10
+NOIP2004-J,T3,普及组,2004,FBI树,"['字符串', '搜索', '树形数据结构', '递归', '构造']",0.5929023047114012,FBI Tree,"['Tree Structure', 'String', 'Search', 'Recursion', 'Construct']",10
+NOIP2004-J,T4,普及组,2004,火星人,"['树形数据结构', '递归', '构造']",0.5293037490436114,Martian,"['Tree Structure', 'Recursion', 'Construct']",10
+NOIP2005-J,T1,普及组,2005,陶陶摘苹果,['模拟'],0.5668390743308095,Taotao Picking Apple,['Simulation'],10
+NOIP2005-J,T2,普及组,2005,校门外的树,['模拟'],0.41273209549071616,The Trees Outside the Campus,['Simulation'],10
+NOIP2005-J,T3,普及组,2005,采药,"['动态规划', 'dp', '背包']",0.4597383981365346,Gathering herbs,"['Bagging', 'DP']",10
+NOIP2005-J,T4,普及组,2005,循环,"['模拟', '字符串', '高精度', '递推']",0.3017437452615618,Circle,"['String', 'Recursion', 'High Precision', 'Simulation']",10
+NOIP2006-J,T1,普及组,2006,明明的随机数,"['模拟', '排序']",0.4627555495580594,Mingming’s Random Number,"['Sort', 'Simulation']",10
+NOIP2006-J,T2,普及组,2006,开心的金明,"['动态规划', 'dp', '背包']",0.5395973154362416,The Happy Jinming,"['Bagging', 'DP']",10
+NOIP2006-J,T3,普及组,2006,Jam的计数法,['模拟'],0.5937295885042455,Jam’s Counting Method,['Simulation'],10
+NOIP2006-J,T4,普及组,2006,数列,"['数学', '进制']",0.5073044972787167,Sequence,"['System', 'Math']",10
+NOIP2007-J,T1,普及组,2007,奖学金,"['模拟', '数学', '排序']",0.4739146991622239,Scholarship,"['Sort', 'Math', 'Simulation']",10
+NOIP2007-J,T2,普及组,2007,纪念品分组,"['贪心', '排序']",0.4567137809187279,Souvenir Grouping,"['Greedy', 'Sort']",10
+NOIP2007-J,T3,普及组,2007,守望者的逃离,"['动态规划', 'dp', '贪心']",0.3984619766448305,The Escape of the Watchman,"['Greedy', 'DP']",10
+NOIP2007-J,T4,普及组,2007,Hanoi双塔问题,"['数学', '高精度', '递推', '递归']",0.3548055155381765,Hanoi Twin Towers,"['Recursion', 'High Precision', 'Math']",10
+NOIP2008-J,T1,普及组,2008,ISBN号码,"['模拟', '字符串']",0.2515597936416293,ISBN Number,"['String', 'Simulation']",10
+NOIP2008-J,T2,普及组,2008,排座椅,"['贪心', '排序']",0.34881378692927484,Arrange Seats,"['Greedy', 'Sort']",10
+NOIP2008-J,T3,普及组,2008,传球游戏,"['模拟', '动态规划', 'dp', '递推']",0.4794028993828046,The Game of Ball Passing,"['Recursion', 'DP', 'Simulation']",10
+NOIP2009-J,T1,普及组,2009,多项式输出,"['模拟', '字符串', '数学']",0.2765428870292887,Polynomial Output,"['String', 'Math', 'Simulation']",10
+NOIP2009-J,T2,普及组,2009,分数线划定,"['模拟', '排序']",0.39574648057519185,Delimit the Minimum Passing Score,"['Sort', 'Simulation']",10
+NOIP2009-J,T3,普及组,2009,细胞分裂,"['数学', '素数判断', '质数', '筛法']",0.26666666666666666,Cell Division,"['Sieve Theory', 'Prime', 'Math']",10
+NOIP2009-J,T4,普及组,2009,道路游戏,"['动态规划', 'dp']",0.3622597553873034,Road Game,['DP'],20
+NOIP2010-J,T1,普及组,2010,数字统计,['模拟'],0.5638781349941088,Statistics,['Simulation'],10
+NOIP2010-J,T2,普及组,2010,接水问题,"['模拟', '搜素', '贪心']",0.44826581171670066,Receiving Water,"['Greedy', 'Search', 'Simulation']",10
+NOIP2010-J,T3,普及组,2010,导弹拦截,"['模拟', '枚举', '排序']",0.33174603174603173,Missile Interception,"['Sort', 'Enumerate', 'Simulation']",10
+NOIP2010-J,T4,普及组,2010,三国游戏,"['贪心', '博弈论']",0.5067842605156038,The Three Kingdom Game,"['Greedy', 'Game Theory']",10
+NOIP2011-J,T1,普及组,2011,数字反转,"['模拟', '字符串']",0.4367496084913868,Digit Reversal,"['String', 'Simulation']",10
+NOIP2011-J,T2,普及组,2011,统计单词数,"['模拟', '字符串']",0.219090478446234,Word Count,"['String', 'Simulation']",10
+NOIP2011-J,T3,普及组,2011,瑞士轮,"['模拟', '递归', '排序']",0.21554133237176595,Swiss System,"['Sort', 'Recursion', 'Simulation']",10
+NOIP2011-J,T4,普及组,2011,表达式的值,"['字符串', '动态规划', 'dp']",0.30192878338278933,The Value of Expression,"['String', 'DP']",10
+NOIP2012-J,T1,普及组,2012,质因数分解,"['数学', '素数判断', '质数', '筛法']",0.3787883546371031,Prime Factorization,"['Sieve Theory', 'Prime', 'Math']",10
+NOIP2012-J,T2,普及组,2012,寻宝,"['模拟', '概率论']",0.2678179423386507,Treasure Hunt,"['Probability Theory', 'Simulation']",10
+NOIP2012-J,T3,普及组,2012,摆花,"['模拟', '动态规划', 'dp']",0.41094077423624126,Placing Flowers,"['DP', 'Simulation']",10
+NOIP2012-J,T4,普及组,2012,文化之旅,"['搜素', '图论', '剪枝', '最短路']",0.22952029520295203,Cultural Journey,"['Shortest Path', 'Search', 'Graph Theory', 'Pruning']",10
+NOIP2013-J,T1,普及组,2013,计数问题,"['模拟', '字符串']",0.4984030873644288,Numeration Problem,"['String', 'Simulation']",10
+NOIP2013-J,T3,普及组,2013,小朋友的数字,"['动态规划', 'dp', '高精度', '递推']",0.15959666203059805,Children’s Numbers,"['High Precision', 'Recursion', 'DP']",10
+NOIP2013-J,T4,普及组,2013,车站分级,"['图论', '贪心', '排序', '图论建模', '拓扑排序']",0.3059011731247778,The Station Classification,"['Greedy', 'Sort', 'Graph Theory', 'Topological Sort']",10
+NOIP2014-J,T1,普及组,2014,珠心算测试,"['模拟', '枚举']",0.29012739737433735,Abacus Mental Arithmetic Test,"['Enumerate', 'Simulation']",10
+NOIP2014-J,T2,普及组,2014,比例简化,"['数学', '最大公约数', 'gcd']",0.4404026134557655,Simplifying Proportion,"['GCD', 'Math']",10
+NOIP2014-J,T3,普及组,2014,螺旋矩阵,"['模拟', '数学']",0.3021669341894061,Helix Matrix,"['Math', 'Simulation']",10
+NOIP2014-J,T4,普及组,2014,子矩阵,"['动态规划', 'dp', '搜素', '枚举', '剪枝']",0.3518329938900204,Submatrix,"['Pruning', 'Search', 'Enumerate', 'DP']",10
+NOIP2015-J,T1,普及组,2015,金币,"['模拟', '数学']",0.5656233421750664,Gold Coins,"['Math', 'Simulation']",10
+NOIP2015-J,T2,普及组,2015,扫雷游戏,"['字符串', '搜素']",0.47960890261160427,Mine Sweeper,"['String', 'Search']",10
+NOIP2015-J,T3,普及组,2015,求和,"['先性数据结构', '排序', '前缀和']",0.2352399938659715,Sum,"['Prefix Sum', 'Sort', 'Linear Structure']",10
+NOIP2015-J,T4,普及组,2015,推销员,"['贪心', '线段树', '树状数组']",0.44286754002911205,The Salesman,"['Greedy', 'Binary Indexed Tree', 'Segment Tree']",10
+NOIP2016-J,T1,普及组,2016,买铅笔,['模拟'],0.42285481903212685,Buying Pencils,['Simulation'],10
+NOIP2016-J,T2,普及组,2016,回文日期,['枚举'],0.30499142521888256,Palindrome Dates,['Enumerate'],10
+NOIP2016-J,T3,普及组,2016,海港,['模拟'],0.29419178657704026,Harbor,['Simulation'],10
+NOIP2016-J,T4,普及组,2016,魔法阵,[],0.21708776595744683,Magic Circle,[],10
+NOIP2017-J,T1,普及组,2017,成绩,[],0.6752122971084596,Score,[],10
+NOIP2017-J,T2,普及组,2017,图书管理员,"['字符串', '排序']",0.4073426573426574,The Librarian,"['Sort', 'String']",10
+NOIP2017-J,T3,普及组,2017,棋盘,"['广度优先搜素', 'BFS', '深度优先搜素', 'DFS', '剪枝', '最短路']",0.25174049036424173,Checkerboard,"['Shortest Path', 'DFS', 'BFS', 'Pruning']",10
+NOIP2017-J,T4,普及组,2017,跳房子,"['动态规划', 'dp', '二分', '单调队列', '队列']",0.18159675236806494,Hopscotch,"['Bipartite', 'Queue', 'Monotonic Queue', 'DP']",10
+NOIP2018-J,T1,普及组,2018,标题统计,"['模拟', '字符串']",0.4298206389427138,Title Statistics,"['String', 'Simulation']",20
+NOIP2018-J,T2,普及组,2018,龙虎斗,"['模拟', '枚举']",0.20004801632555066,The Battle Between Dragon and Tiger,"['Enumerate', 'Simulation']",25
+NOIP2018-J,T3,普及组,2018,摆渡车,"['动态规划', 'dp', '枚举', '深度优先搜素', 'DFS', '斜率优先']",0.1786130051554964,Shuffle,"['Convex Hull Trick', 'DFS', 'Enumerate', 'DP']",20
+NOIP2018-J,T4,普及组,2018,对称二叉树,"['树形数据结构', '哈希', 'HSASH']",0.26891025641025645,Symmetric Binary Tree,"['Tree Structure', 'HSASH', 'Hash']",25
+CSP2019-J,T1,CSP-J,2019,数字游戏,['字符串'],0.21652892561983472,The Number Game,['String'],20
+CSP2019-J,T2,CSP-J,2019,交通换乘,['模拟'],0.23051050153225205,Public Transport Transfer,['Simulation'],20
+CSP2019-J,T3,CSP-J,2019,纪念品,"['动态规划', 'dp', '背包']",0.31476217547849156,Souvenir,"['Bagging', 'DP']",20
+CSP2019-J,T4,CSP-J,2019,零件加工,['最短路'],0.197509660798626,Machining Parts,['Shortest Path'],20
+NOIP2004-S,T1,提高组,2004,津津的储蓄计划,"['模拟', '枚举']",0.4145010463853347,Jinjin’s Savings Plan,"['Enumerate', 'Simulation']",10
+NOIP2004-S,T2,提高组,2004,合并果子,"['贪心', '堆', '优先队列']",0.38268405624707935,Fruit Pile,"['Heap', 'Greedy', 'Priority Queue']",10
+NOIP2004-S,T3,提高组,2004,合唱队形,"['动态规划', 'dp', '单调队列']",0.4210078311201907,Chorus Formation,"['Monotonic Queue', 'DP']",10
+NOIP2004-S,T4,提高组,2004,虫食算,"['搜素', '数学']",0.22908063464464246,The Worm-eaten Formula Puzzle,"['Search', 'Math']",10
+NOIP2005-S,T1,提高组,2005,谁拿了最多奖学金,"['字符串', '排序']",0.46768170066072967,Who got the most scholarships,"['Sort', 'String']",10
+NOIP2005-S,T2,提高组,2005,过河,"['动态规划', 'dp', '搜素']",0.24851554313657004,Across the river,"['Search', 'DP']",10
+NOIP2005-S,T3,提高组,2005,篝火晚会,['模拟'],0.3827265029635901,Campfire Party,['Simulation'],10
+NOIP2006-S,T1,提高组,2006,能量项链,"['动态规划', 'dp', '递推', '枚举', '区间dp']",0.5397718142375061,Energy Necklace,"['Interval DP', 'Enumerate', 'Recursion', 'DP']",10
+NOIP2006-S,T2,提高组,2006,金明的预算方案,"['动态规划', 'dp', '背包']",0.3490321912845461,Jinming’s Budget Plan,"['Bagging', 'DP']",10
+NOIP2006-S,T3,提高组,2006,作业调度方案,['模拟'],0.35682994822779773,Job Scheduling Plan,['Simulation'],10
+NOIP2006-S,T4,提高组,2006,2^k进制数,"['数学', '高精度', '进制']",0.3359511343804537,2k System of Numeration,"['System', 'High Precision', 'Math']",10
+NOIP2007-S,T1,提高组,2007,统计数字,"['模拟', '排序']",0.41375530894643103,Counting Numbers,"['Sort', 'Simulation']",10
+NOIP2007-S,T2,提高组,2007,字符串的展开,"['模拟', '字符串']",0.2664313329971424,String Expansion,"['String', 'Simulation']",10
+NOIP2007-S,T3,提高组,2007,矩阵取数游戏,"['动态规划', 'dp', '高精度', '进制']",0.30377119132741326,Matrix Number Game,"['High Precision', 'System', 'DP']",10
+NOIP2007-S,T4,提高组,2007,树网的核,"['模拟', '动态规划', 'dp', '树形数据结构', '枚举', '最短路']",0.47333333333333333,The Core of the Tree Network,"['Simulation', 'Tree Structure', 'DP', 'Shortest Path', 'Enumerate']",10
+NOIP2008-S,T1,提高组,2008,笨小猴,"['排序', '素数判断', '质数', '筛法']",0.3145403333795078,Stupid Little Monkey,"['Sort', 'Prime', 'Sieve Theory']",10
+NOIP2008-S,T2,提高组,2008,火柴棒等式,['搜素'],0.4657060942439168,Matchstick Equation,['Search'],10
+NOIP2008-S,T3,提高组,2008,传纸条,"['动态规划', 'dp', '费用流']",0.4465208000751244,Passing Notes,"['Minimum Cost Flow', 'DP']",10
+NOIP2008-S,T4,提高组,2008,双栈排序,"['图论', '二分图']",0.3434991974317817,Two Stack Sort,"['Bipartite Graph', 'Graph Theory']",10
+NOIP2009-S,T1,提高组,2009,潜伏者,"['模拟', '字符串']",0.3300078466539626,The Lurker,"['String', 'Simulation']",10
+NOIP2009-S,T2,提高组,2009,Hankson的趣味题,"['数学', '枚举', '最大公约数', 'gcd']",0.33512583351258335,Hankson’s Interesting Question,"['GCD', 'Enumerate', 'Math']",10
+NOIP2009-S,T3,提高组,2009,最优贸易,"['动态规划', 'dp', '搜素', '图论', '最短路', '强连通分量', '缩点']",0.37245009870585655,The Optimal Trade,"['SCC', 'DP', 'Shrink Point', 'Search', 'Graph Theory', 'Shortest Path']",10
+NOIP2009-S,T4,提高组,2009,靶形数独,"['搜素', '剪枝', '位运算']",0.24731892426992247,Target-shaped Sudoku,"['Search', 'Pruning', 'Bit Operations']",10
+NOIP2010-S,T1,提高组,2010,机器翻译,"['模拟', '队列']",0.41664440288538607,Machine Translation,"['Queue', 'Simulation']",10
+NOIP2010-S,T2,提高组,2010,乌龟棋,"['动态规划', 'dp', '递归', '枚举']",0.5680369311936689,Tortoise Chess,"['Enumerate', 'Recursion', 'DP']",10
+NOIP2010-S,T3,提高组,2010,关押罪犯,"['图论', '贪心', '并查集', '排序', '二分图']",0.3936062673742734,Prisoners,"['UFDS', 'Greedy', 'Sort', 'Graph Theory', 'Bipartite Graph']",10
+NOIP2010-S,T4,提高组,2010,引水入城,"['动态规划', 'dp', '搜素', '广度优先搜素', 'BFS']",0.23780371149799118,Divert water into the city,"['BFS', 'Search', 'DP']",10
+NOIP2011-S,D1T1,提高组,2011,铺地毯,"['模拟', '枚举']",0.3447916976419162,Lay the carpet,"['Enumerate', 'Simulation']",10
+NOIP2011-S,D1T2,提高组,2011,选择客栈,['递推'],0.36991461577096935,Select Inns,['Recursion'],10
+NOIP2011-S,D2T1,提高组,2011,计算系数,['数学'],0.34780835881753314,Calculate the coefficients,['Math'],10
+NOIP2011-S,D2T2,提高组,2011,聪明的质监员,"['数学', '二分', '前缀和']",0.26174055829228243,The smart quality supervisor,"['Bipartite', 'Prefix Sum', 'Math']",10
+NOIP2011-S,D2T3,提高组,2011,观光公交,"['贪心', '递推']",0.32838840188806473,Sightseeing bus,"['Greedy', 'Recursion']",10
+NOIP2012-S,D1T1,提高组,2012,Vigenère 密码,"['模拟', '字符串']",0.5247851949768672,The Vigenère Code,"['String', 'Simulation']",10
+NOIP2012-S,D1T2,提高组,2012,国王游戏,"['贪心', '高精度', '排序']",0.21696897611259788,King Game,"['Greedy', 'Sort', 'High Precision']",10
+NOIP2012-S,D1T3,提高组,2012,开车旅行,['倍增'],0.3163437236731255,Travel By Car,['Multiply'],10
+NOIP2012-S,D2T1,提高组,2012,同余方程,"['数学', '扩展欧几里德', '扩欧']",0.5502392344497608,Congruence Equation,"['Extended Euclid', 'Extended Euclidean', 'Math']",10
+NOIP2012-S,D2T2,提高组,2012,借教室,"['二分', '前缀和', '差分']",0.29671067352875363,Borrow Classrooms,"['Bipartite', 'Prefix Sum', 'Difference']",10
+NOIP2012-S,D2T3,提高组,2012,疫情控制,"['贪心', '树形数据结构', '倍增', '二分', '排序']",0.2862681744749596,Epidemic Control,"['Greedy', 'Tree Structure', 'Multiply', 'Sort', 'Bipartite']",10
+NOIP2013-S,D1T1,提高组,2013,转圈游戏,"['模拟', '数学']",0.37591859807801015,Spinning Game,"['Math', 'Simulation']",10
+NOIP2013-S,D1T2,提高组,2013,火柴排队,"['树状数组', '排序']",0.4006263550951578,Queuing Matches,"['Sort', 'Binary Indexed Tree']",10
+NOIP2013-S,D1T3,提高组,2013,货车运输,"['图论', '贪心', '倍增', '并查集', '生成树', '最近公共祖先', 'LCA']",0.29724260055653934,Trucking,"['LCA', 'UFDS', 'Greedy', 'Multiply', 'Spanning Tree', 'Graph Theory']",10
+NOIP2013-S,D2T1,提高组,2013,积木大赛,"['模拟', '贪心', '递归']",0.5846036585365854,Building Block Competition,"['Greedy', 'Recursion', 'Simulation']",10
+NOIP2013-S,D2T2,提高组,2013,花匠,"['动态规划', 'dp']",0.3760437661963721,Florist,['DP'],10
+NOIP2013-S,D2T3,提高组,2013,华容道,"['搜素', '图论']",0.20747350808700504,Huarong Road,"['Search', 'Graph Theory']",10
+NOIP2014-S,D1T1,提高组,2014,生活大爆炸版石头剪刀布,['模拟'],0.5592275915073494,The Big Bang Theory edition Rock-Paper-Scissors Game,['Simulation'],10
+NOIP2014-S,D1T2,提高组,2014,联合权值,"['动态规划', 'dp', '最近公共祖先', 'LCA']",0.27067407922168174,Joint Weights,"['LCA', 'DP']",10
+NOIP2014-S,D1T3,提高组,2014,飞扬的小鸟,"['动态规划', 'dp', '枚举', '背包']",0.20380719524973803,Flappy Bird,"['Bagging', 'Enumerate', 'DP']",10
+NOIP2014-S,D2T1,提高组,2014,无线网路发射器选址,"['模拟', '枚举']",0.38678712591756065,The location of The Wireless Network Transmitter,"['Enumerate', 'Simulation']",10
+NOIP2014-S,D2T2,提高组,2014,寻找道路,"['搜素', '图论']",0.303231328910764,Find the Way,"['Search', 'Graph Theory']",10
+NOIP2014-S,D2T3,提高组,2014,解方程,"['数学', '高精度', '枚举', '素数判断', '质数', '筛法']",0.2446024223275408,Solve the Equation,"['Prime', 'Sieve Theory', 'Math', 'Enumerate', 'High Precision']",10
+NOIP2015-S,D1T1,提高组,2015,神奇的幻方,"['模拟', '枚举']",0.6115183246073298,Magic Square,"['Enumerate', 'Simulation']",10
+NOIP2015-S,D1T2,提高组,2015,信息传递,"['图论', '并查集']",0.35079255685733973,Message Passing,"['Graph Theory', 'UFDS']",10
+NOIP2015-S,D1T3,提高组,2015,斗地主,"['搜素', '贪心', '深度优先搜素', 'DFS']",0.2435402435402435,Doudizhu,"['DFS', 'Greedy', 'Search']",10
+NOIP2015-S,D2T1,提高组,2015,跳石头,"['贪心', '二分']",0.35472950547626947,Jump Rocks,"['Bipartite', 'Greedy']",10
+NOIP2015-S,D2T3,提高组,2015,运输计划,"['图论', '最近公共祖先', 'LCA', '树链剖分']",0.25295914471172204,Shipping Plan,"['Heavy-Light Decomposition', 'LCA', 'Graph Theory']",10
+NOIP2016-S,D1T1,提高组,2016,玩具谜题,['模拟'],0.36720598580290337,Toy Puzzle,['Simulation'],10
+NOIP2016-S,D1T2,提高组,2016,天天爱跑步,"['线段树', '最近公共祖先', 'LCA', '树链剖分', 'Link-Cut', 'Tree', 'LCT', '差分']",0.22881582464581665,Love Running Every Day,"['LCA', 'Segment Tree', 'Link-Cut', 'Heavy-Light Decomposition', 'Difference', 'LCT', 'Tree']",10
+NOIP2016-S,D1T3,提高组,2016,换教室,"['动态规划', 'dp', '期望']",0.25288831835686776,Change Classrooms,"['Expectation', 'DP']",10
+NOIP2016-S,D2T1,提高组,2016,组合数问题,"['数学', '组合数学']",0.2736448598130841,Combinatorial Number Problem,"['Combinatorics', 'Math']",10
+NOIP2016-S,D2T2,提高组,2016,蚯蚓,"['堆', '队列']",0.20301117047110245,Earthworms,"['Heap', 'Queue']",10
+NOIP2016-S,D2T3,提高组,2016,愤怒的小鸟,"['搜素', '状态压缩']",0.30160755294718045,Angry Birds,"['Bitmask', 'Search']",10
+NOIP2017-S,D1T1,提高组,2017,小凯的疑惑,"['数学', '不定方程', '中国剩余定理', 'CRT', '构造']",0.4593731863029599,Kat's doubts,"['Construct', 'Diophantine Equation', 'CRT', 'Math']",10
+NOIP2018-S,D1T1,提高组,2018,铺设道路,"['贪心', '树状数组']",0.48534159886348954,Pave the Road,"['Greedy', 'Binary Indexed Tree']",10
+NOIP2018-S,D1T2,提高组,2018,货币系统,"['动态规划', 'dp', '数学', '贪心', '背包']",0.3505773672055427,Currency System,"['Greedy', 'Bagging', 'DP', 'Math']",20
+NOIP2018-S,D1T3,提高组,2018,赛道修建,"['贪心', '二分', '最近公共祖先', 'LCA']",0.15613896565337546,Track Construction,"['Bipartite', 'Greedy', 'LCA']",20
+NOIP2018-S,D2T1,提高组,2018,旅行,"['探索', '贪心', '深度优先搜素', 'DFS', '基环树']",0.18004372267332913,Travel,"['DFS', 'Greedy', 'Search', 'Cable Protection']",25
+NOIP2018-S,D2T2,提高组,2018,填数游戏,"['动态规划', 'dp', '数学']",0.11480945489628556,Number-Filling Game,"['DP', 'Math']",20
+NOIP2018-S,D2T3,提高组,2018,保卫王国,"['动态规划', 'dp', '倍增', '树链剖分']",0.15136678906568746,Defend the Kingdom,"['Heavy-Light Decomposition', 'Multiply', 'DP']",25
+CSP2019-S,D1T1,CSP-S,2019,格雷码,"['数学', '递归']",0.24911556603773582,Gray Code,"['Recursion', 'Math']",20
+CSP2019-S,D1T2,CSP-S,2019,括号树,"['树形数据结构', '树论']",0.1940665154950869,Parentheses Tree,"['Tree Structure', 'Tree Theory']",20
+CSP2019-S,D1T3,CSP-S,2019,树上的数,['树形数据结构'],0.10845431255337318,Numbers on the Tree,['Tree Structure'],10
+CSP2019-S,D2T1,CSP-S,2019,Emiya家今天的饭,"['动态规划', 'dp', '数学', '容斥']",0.20098491843644198,Today’s Meal at Emiya’s House,"['Inclusion-Exclusion', 'DP', 'Math']",20
+CSP2019-S,D2T2,CSP-S,2019,划分,"['贪心', '单调队列']",0.09256844850065189,Division,"['Greedy', 'Monotonic Queue']",20
+CSP2019-S,D2T3,CSP-S,2019,树的重心,['树形dp'],0.16541822721598,The Center of Gravity of the Tree,['Tree Dp'],10
